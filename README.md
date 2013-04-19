@@ -2,4 +2,4 @@ firefoxos
 =========
 
 firefox OS
-desarrollo sitio wev Building Firefox OS
+desarrollo sitio web Building Firefox OS
